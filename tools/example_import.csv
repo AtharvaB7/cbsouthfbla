@@ -1,0 +1,2 @@
+event,topic,question,A,B,C,D,E,answer,explanation,source,kind
+cybersecurity,Security Fundamentals,Which part of the CIA triad does a DDoS attack primarily target?,Confidentiality,Integrity,Availability,Authentication,,C,DDoS attacks flood a service so legitimate users cannot reach it.,CB South practice set,practice
